@@ -33,7 +33,7 @@ We use data from historical Olympic Games to try to predict how many medals a co
 
 - **Model**:
   
-  Y = a_1 \times x_1 + a_2 \times x_2 + B
+  $Y = a_1 \times x_1 + a_2 \times x_2 + B$
   
   Where:  
   - **x₁**: Number of athletes a country has entered into the Olympics  

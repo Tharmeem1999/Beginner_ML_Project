@@ -32,9 +32,9 @@ We use data from historical Olympic Games to try to predict how many medals a co
   The model is trained using the training data and evaluated using the test data.
 
 - **Model**:
-   \[
-     Y = a_1 \cdot x_1 + a_2 \cdot x_2 + B
-   \]
+  
+  Y = a_1 \times x_1 + a_2 \times x_2 + B
+  
   Where:  
   - **x₁**: Number of athletes a country has entered into the Olympics  
   - **x₂**: Number of medals won by the country in the previous Olympics  
